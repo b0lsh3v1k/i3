@@ -34,6 +34,7 @@ bindsym $mod+Return exec i3-sensible-terminal gnome-terminal
 
 # kill focused window
 bindsym $mod+Shift+q kill
+bindsym $alt+F4 kill
 
 #colors
 set $bg-color            #2f343f
